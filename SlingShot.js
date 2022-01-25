@@ -29,6 +29,6 @@ class Slingshot{
         }
     
         attach(body){
-            this.body.bodyA = body;
+            this.sling.bodyA = body;
         }
 }
